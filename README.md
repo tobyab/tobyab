@@ -1,4 +1,4 @@
-Hello! 👋  I’m Toby. I'm a tech obsessed nerd who specializes in web development, AI development, app development and IT security.
+👋 I’m Toby. I'm a tech obsessed nerd who specializes in web development, AI development, app development and IT security.
 
 The main languges I use are Python, Go, CSS, HTML, Javascript and Swift.
 
