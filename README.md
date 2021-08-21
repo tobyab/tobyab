@@ -4,7 +4,7 @@
 
 The main languges I use are  CSS, HTML, Javascript, Go, Python and Swift.
 
-I use macOS, Windows and Linux occasionally. My preference for development is macOS though.
+I use macOS, Windows and occasionally Linux. My preference for development is macOS though.
 
 And yes, basically all of my repositories are private.
 
