@@ -16,7 +16,6 @@ Right now, I'm:
 - Doing schoolwork 🎓
 
 If you would like to get in contact with me, please don't hesitate to send me an email here; toby@tobyb.xyz!
-
 For more information about me, please visit my personal website; https://tobyb.xyz!
 
 Have a nice day! - Toby :)
