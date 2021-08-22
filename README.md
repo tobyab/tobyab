@@ -4,7 +4,7 @@
 
 I'm a tech obsessed nerd who specializes in web development, but also understands app development, AI development and IT security.
 
-The main languges I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
+The main languages I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
 
 I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"> Windows</a> and occasionally <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>. My preference for development is macOS though.
 
@@ -16,8 +16,8 @@ Right now, I'm:
 - Trying to start a company 📈
 - Doing schoolwork 🎓
 
-If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here!</a> 
+If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
 
-For more information about me, please visit my <a href="https://tobyb.xyz">personal website!</a>
+For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
 
 Have a nice day! - Toby :)
