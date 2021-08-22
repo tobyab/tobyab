@@ -4,9 +4,9 @@
 
 I'm a tech obsessed nerd who specializes in web development, but also understands app development, AI development and IT security.
 
-The main languges I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS,</a> <a href="https://en.wikipedia.org/wiki/HTML">HTML,</a> <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript,</a> <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go,</a> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
+The main languges I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
 
-I use macOS, Windows and occasionally Linux. My preference for development is macOS though.
+I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"> Windows</a> and occasionally <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>. My preference for development is macOS though.
 
 And yes, basically all of my repositories are private.
 
