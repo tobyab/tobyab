@@ -1,6 +1,6 @@
-<header>
+<h1>
 👋 Hi! I’m Toby!
-</header>
+</h1>
 
 I'm a tech obsessed nerd who specializes in web development, but also understands app development, AI development and IT security.
 
