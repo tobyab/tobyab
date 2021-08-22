@@ -1,8 +1,8 @@
 <h1>
-  👋 Hi! I’m Toby!
+  Hi! I’m Toby! 👋
 </h1>
 
-I'm a tech obsessed nerd who specializes in web development, but also understands app development, AI development and IT security.
+I'm a tech obsessed nerd from England who specializes in web development, but also understands app development, AI development and IT security.
 
 The main languages I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
 
