@@ -9,6 +9,6 @@ I use macOS, Windows and occasionally Linux. My preference for development is ma
 And yes, basically all of my repositories are private.
 
 If you would like to get in contact with me, please don't hesitate to send me an email here; toby@tobyb.xyz!
-And for more information about me, please visit my personal website; <a href: https://tobyb.xyz></a>
+And for more information about me, please visit my personal website; https://tobyb.xyz!
 
 Have a nice day! - Toby :)
