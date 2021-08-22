@@ -18,6 +18,6 @@ Right now, I'm:
 
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here!</a> 
 
-For more information about me, please visit my personal website <a href="https://tobyb.xyz">here!</a>
+For more information about me, please visit my <a href="https://tobyb.xyz">personal website!</a>
 
 Have a nice day! - Toby :)
