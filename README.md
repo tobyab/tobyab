@@ -20,6 +20,4 @@ If you would like to get in contact with me, please don't hesitate to send me an
 
 For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
 
-Thank you for visiting my profile, and I hope you have a nice day!
-
-- Toby :)
+Thank you for visiting my profile, and I hope you have a nice day! -Toby :)
