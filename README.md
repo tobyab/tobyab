@@ -14,7 +14,7 @@ Right now, I'm:
 - Trying to start a company 📈
 - Doing schoolwork 🎓
 
-If you would like to get in contact with me, please don't hesitate to send me an email here; toby@tobyb.xyz!
+If you would like to get in contact with me, please don't hesitate to send me an email here; toby@tobyb.xyz! 
 
 For more information about me, please visit my personal website; https://tobyb.xyz!
 
