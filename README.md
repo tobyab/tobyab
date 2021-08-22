@@ -11,11 +11,11 @@ And yes, basically all of my repositories are private.
 Right now, I'm:
 
 - Working on my personal website 👨🏻‍💻
-- Programming a personal assistant 🖥
+- Developing a personal assistant 🖥
 - Starting a company 📈
 - Doing schoolwork 🎓
 
 If you would like to get in contact with me, please don't hesitate to send me an email here; toby@tobyb.xyz!
-And for more information about me, please visit my personal website; https://tobyb.xyz!
+For more information about me, please visit my personal website; https://tobyb.xyz!
 
 Have a nice day! - Toby :)
