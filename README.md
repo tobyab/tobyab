@@ -11,7 +11,7 @@ And yes, basically all of my repositories are private.
 Right now, I'm:
 
 - Working on my personal website 👨🏻‍💻
-- Working on an a personal assistant 🖥
+- Programming a personal assistant 🖥
 - Starting a company 📈
 - Doing schoolwork 🎓
 
