@@ -24,6 +24,13 @@ Facts about me:
 - I play the piano and cello 🎵
 - I love books 📚
 
+Links:
+- <a href="mailto:toby@tobyb.xyz">Email</a>
+- <a href="https://codepen.io/itstobez">CodePen</a>
+- <a href="https://dev.to/itstobez">Dev</a>
+- <a href="tobyb.xyz">Personal Website</a>
+- <a href="https://developer.apple.com/forums/profile/ItsTobez">Apple Developer Profile</a>
+ 
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
 
 For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
