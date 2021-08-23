@@ -15,12 +15,14 @@ Right now, I'm:
 - Developing a home assistant 🏡
 - Trying to start a company 📈
 - Doing schoolwork 🎓
+- Listening to cringey music 🎼
 
 Facts about me:
 - My favourite programming language is CSS 💻
 - I live in England 🇬🇧
 - I started programming at the age of 7 🙍🏻‍♂️
 - I play the piano and cello 🎵
+- I love books 📚
 
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
 
