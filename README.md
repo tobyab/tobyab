@@ -35,3 +35,8 @@ If you would like to get in contact with me, please don't hesitate to send me an
 For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
 
 Thank you for visiting my profile, and I hope you have a nice day! -Toby :)
+
+
+![image](https://user-images.githubusercontent.com/77097223/130585909-94cb9d9a-c9a8-45eb-9f65-bc7a87489661.png)
+
+![image](https://user-images.githubusercontent.com/77097223/130585956-8344c086-264d-4ce3-8b78-69fd8dd00154.png)
