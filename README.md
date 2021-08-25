@@ -37,6 +37,6 @@ For more information about me, please visit my <a href="https://tobyb.xyz">perso
 Thank you for visiting my profile, and I hope you have a nice day! -Toby :)
 
 
-![image](https://user-images.githubusercontent.com/77097223/130585909-94cb9d9a-c9a8-45eb-9f65-bc7a87489661.png)
+![image](https://user-images.githubusercontent.com/77097223/130769204-b17b28b2-201b-4398-9427-780827ba5ef3.png)
 
 ![image](https://user-images.githubusercontent.com/77097223/130585956-8344c086-264d-4ce3-8b78-69fd8dd00154.png)
