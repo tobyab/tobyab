@@ -20,7 +20,7 @@ Right now, I'm:
 Facts about me:
 - My favourite programming language is CSS 💻
 - I live in England 🇬🇧
-- I started programming at the age of 7 🙍🏻‍♂️
+- I started programming at 7 years old 🙍🏻‍♂️
 - I play the piano and cello 🎵
 - I love books 📚
 
