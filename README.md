@@ -36,7 +36,6 @@ For more information about me, please visit my <a href="https://tobyb.xyz">perso
 
 Thank you for visiting my profile, and I hope you have a nice day! -Toby :)
 
+<img src="https://github-readme-stats.vercel.app/api?username=ItsTobez&show_icons=true">
 
-![image](https://user-images.githubusercontent.com/77097223/130769204-b17b28b2-201b-4398-9427-780827ba5ef3.png)
-
-![image](https://user-images.githubusercontent.com/77097223/130585956-8344c086-264d-4ce3-8b78-69fd8dd00154.png)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTobez&layout=compact">
