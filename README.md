@@ -2,11 +2,13 @@
   Hi! I’m Toby! 👋
 </h1>
 
-I'm a 12 year old tech obsessed nerd from England, and proud member of hack club who specializes in web development, but also understands app development (mainly iOS), AI development and IT security.
+I'm a 12 year old tech obsessed nerd from England, and proud member of Hack Club who specializes in web development, but also understands app development (mainly iOS), AI development and IT security.
 
 The main languages I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
 
 I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"> Windows</a> and occasionally <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>. My preference for development is macOS though.
+
+Skapakitt is a soon to be company, I'm not able to tell you what it is right now, but hopefully you should know in a few weeks!
 
 And yes, basically all of my repositories are private.
 
