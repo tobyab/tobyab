@@ -1,5 +1,5 @@
 <h1>
-  Hi! I’m Toby! 👋
+  Hi! I'm Toby! 👋
 </h1>
 
 I'm a 12 year old tech obsessed nerd from England, and proud member of Hack Club who specializes in web development, but also understands app development (mainly iOS), AI development and IT security.
@@ -9,6 +9,8 @@ The main languages I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</
 I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"> Windows</a> and occasionally <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>. My preference for development is macOS though.
 
 Skapakitt is a soon to be company, I'm not able to tell you what it is right now, but hopefully you should know in a few weeks!
+
+By the way! My pronouns are they/them, but you can also refer to me as he/him
 
 And yes, basically all of my repositories are private.
 
@@ -27,9 +29,10 @@ Facts about me:
 - I love books 📚
 
 Links:
-- <a href="mailto:toby@tobyb.xyz">Email</a>
+- <a href="mailto:toby@tobyb.xyz">Email Address</a>
 - <a href="https://codepen.io/itstobez">CodePen</a>
 - <a href="https://dev.to/itstobez">Dev.to</a>
+- <a href="https://stackoverflow.com/users/15258537/toby">Stack Overflow</a>
 - <a href="https://tobyb.xyz">Personal Website</a>
  
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
