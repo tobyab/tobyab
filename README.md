@@ -2,7 +2,7 @@
   Hi! I'm Toby! 👋
 </h1>
 
-I'm a 12 year old tech obsessed nerd from England, and proud member of Hack Club who specializes in web development, but also understands app development (mainly iOS), AI development and IT security.
+I'm a 12 year old tech obsessed nerd from England, and member of Hack Club who specializes in web development, but also understands app development (mainly iOS), AI development and IT security.
 
 The main languages I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
 
