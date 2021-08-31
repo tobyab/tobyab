@@ -10,7 +10,7 @@ I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://
 
 Skapakitt is a soon to be company, I'm not able to tell you what it is right now, but hopefully you should know in a few weeks!
 
-By the way! My pronouns are they/them, but you can also refer to me as he/him
+By the way! My pronouns are they/them, but I am also happy for people to refer to me as he/him
 
 And yes, basically all of my repositories are private.
 
