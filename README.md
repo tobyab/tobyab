@@ -6,13 +6,11 @@ I'm a 12 year old tech obsessed nerd from England, and member of Hack Club who s
 
 The main languages I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>.
 
-I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"> Windows</a> and occasionally <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>. My preference for development is macOS though.
-
-Skapakitt is a soon to be company, I'm not able to tell you what it is right now, but hopefully you should know in a few weeks!
+I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"> Windows</a> and occasionally <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>. But, my preference for development is macOS though.
 
 By the way! My pronouns are he/him, but I am also happy for people to refer to me as they/them
 
-And yes, basically all of my repositories are private.
+By the way, alot of my repositories are private. But, if you do want to access the code, you can contact me with my email address below!
 
 Right now, I'm:
 - Working on my personal website 👨🏻‍💻
