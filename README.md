@@ -38,9 +38,3 @@ If you would like to get in contact with me, please don't hesitate to send me an
 For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
 
 Thank you for visiting my profile, and I hope you have a nice day! -Toby :)
-
-<div class="stats0">
-<img src="https://github-readme-stats.vercel.app/api?username=ItsTobez&show_icons=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTobez&layout=compact">
-  </div>
