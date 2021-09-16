@@ -10,7 +10,7 @@ I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://
 
 By the way! My pronouns are he/him, but I am also happy for people to refer to me as they/them
 
-By the way, alot of my repositories are private. But, if you do want to access the code, you can contact me with my email address below!
+By the way, a lot of my repositories are private. But, if you do want to access the code, you can contact me with my email address below!
 
 Right now, I'm:
 - Working on my personal website 👨🏻‍💻
@@ -27,13 +27,10 @@ Facts about me:
 - I love books 📚
 
 Links:
-- <a href="mailto:toby@tobyb.xyz">Email Address</a>
-- <a href="https://codepen.io/itstobez">CodePen</a>
-- <a href="https://dev.to/itstobez">Dev.to</a>
-- <a href="https://stackoverflow.com/users/15258537/toby">Stack Overflow</a>
-- <a href="https://leetcode.com/itstobez/">LeetCode</a>
-- <a href="https://dribbble.com/iTobez">Dribbble</a>
-- <a href="https://tobyb.xyz">Personal Website</a>
+- <a href="mailto:toby@tobyb.xyz">Email→</a>
+- <a href="https://tobyb.xyz">Personal Website→</a>
+- <a href="https://codepen.io/itstobez">CodePen→</a>
+- <a href="https://dribbble.com/iTobez">Dribbble→</a>
  
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
 
