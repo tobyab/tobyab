@@ -27,10 +27,10 @@ Facts about me:
 - I love books 📚
 
 Links:
-- <a href="mailto:toby@tobyb.xyz">Email→</a>
-- <a href="https://tobyb.xyz">Personal Website→</a>
-- <a href="https://codepen.io/itstobez">CodePen→</a>
-- <a href="https://dribbble.com/iTobez">Dribbble→</a>
+- <a href="mailto:toby@tobyb.xyz">Email →</a>
+- <a href="https://tobyb.xyz">Personal Website →</a>
+- <a href="https://codepen.io/itstobez">CodePen →</a>
+- <a href="https://dribbble.com/iTobez">Dribbble →</a>
  
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
 
