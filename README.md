@@ -30,10 +30,11 @@ Links:
 - <a href="mailto:toby@tobyb.xyz">Email →</a>
 - <a href="https://tobyb.xyz">Personal Website →</a>
 - <a href="https://codepen.io/itstobez">CodePen →</a>
+- <a href="https://twitter.com/itstobez_">Twitter →</a>
 - <a href="https://dribbble.com/iTobez">Dribbble →</a>
  
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
 
 For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
 
-Thank you for visiting my profile, and I hope you have a nice day! -Toby :)
+Thanks for visiting my profile, and I hope you have a nice day! -Toby :)
