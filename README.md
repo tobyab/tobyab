@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! I'm Toby! <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" height="25px">
+  Hi! I'm Toby! <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" height="27px">
 </h1>
 
 I'm a 12 year old tech obsessed nerd from England, and member of Hack Club who specializes in web development, but also understands app development (mainly iOS), AI development and IT security.
