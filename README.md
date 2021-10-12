@@ -32,6 +32,7 @@ Links:
 - <a href="https://codepen.io/itstobez">CodePen →</a>
 - <a href="https://twitter.com/itstobez_">Twitter →</a>
 - <a href="https://dribbble.com/iTobez">Dribbble →</a>
+- <a href="https://www.figma.com/@tobyb">Figma →</a>
  
 If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
 
