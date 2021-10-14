@@ -20,7 +20,7 @@ Right now, I'm:
 - Listening to cringey music 🎼
 
 Facts about me:
-- My favourite programming language is Tailwind 💻
+- My favourite programming language is Tailwind CSS 💻
 - I live in England 🇬🇧
 - I started programming at 7 years old 🧒🏻
 - I play the piano and cello 🎵
