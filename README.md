@@ -8,7 +8,7 @@ The main languages I use are;  <a href="https://en.wikipedia.org/wiki/CSS">CSS</
 
 I use <a href="https://en.wikipedia.org/wiki/MacOS">MacOS</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"> Windows</a> and occasionally <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>. But, my preference for development is macOS though.
 
-By the way! My pronouns are <b>he/him</b>, but I am also happy for people to refer to me as <b>they/them</b>
+By the way! My pronouns are <b>they/he</b>!
 
 By the way, a lot of my repositories are private. But, if you do want to access the code, you can contact me with my email address below!
 
