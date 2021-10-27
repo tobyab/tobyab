@@ -20,7 +20,8 @@ Right now, I'm:
 - Listening to cringey music 🎼
 
 Facts about me:
-- My favourite framework is React JS 💻
+- My favourite programming language JavaScript 💻
+- My favourite framework is Next JS 👨🏻‍💻
 - I live in England 🇬🇧
 - I started programming at 7 years old 🧒🏻
 - I play the piano and cello 🎵
