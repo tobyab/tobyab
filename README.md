@@ -21,7 +21,7 @@ Right now, I'm:
 
 Facts about me:
 - My favourite programming language JavaScript 💻
-- My favourite framework is Next JS 👨🏻‍💻
+- My favourite framework is Next JS 🖥
 - I live in England 🇬🇧
 - I started programming at 7 years old 🧒🏻
 - I play the piano and cello 🎵
@@ -39,4 +39,4 @@ If you would like to get in contact with me, please don't hesitate to send me an
 
 For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
 
-Thanks for visiting my profile, and I hope you have a nice day! -Toby :)
+Thanks for visiting my profile, and I hope you have a nice day! -Toby 🏳️‍🌈
