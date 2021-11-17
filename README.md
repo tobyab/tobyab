@@ -35,7 +35,7 @@ Links:
 - <a href="https://dribbble.com/iTobez">Dribbble →</a>
 - <a href="https://www.figma.com/@tobyb">Figma →</a>
  
-If you would like to get in contact with me, please don't hesitate to send me an email <a href="mailto:toby@tobyb.xyz">here</a>!
+If you would like to get in contact with me, please don't hesitate to <a href="mailto:toby@tobyb.xyz">send me an email</a>!
 
 For more information about me, please visit my <a href="https://tobyb.xyz">personal website</a>!
 
