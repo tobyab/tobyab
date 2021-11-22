@@ -1,6 +1,6 @@
-<h1> Hi! I'm Toby, to find out more about me, follow the steps below!</h1>
+<h1> Hi! I'm Toby! 👋</h1>
 
-
+To find out more about me, follow the steps below!
 
 ```sh
 $ gh repo clone ItsTobez/ItsTobez
