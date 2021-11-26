@@ -1,6 +1,6 @@
 Hello! I'm Toby! 👋
 
-I'm a 12 year old tech obsessed nerd from England, and member of Hack Club who specializes in web development and IT security.
+I'm a 13 year old tech obsessed nerd from England, and member of Hack Club who specializes in web development and IT security.
 
 The main languages I use are; JavaScript, HTML, CSS, Go, Postgresql and Python. I also use MacOS, Windows and occasionally Linux.
 
