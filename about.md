@@ -23,6 +23,6 @@ I started programming at 7 years old 🧒🏻
 I play the piano and cello 🎵
 I love books 📚
 
-If you would like to get in contact with me, please don't hesitate to send me an email at tobyb.xyz!
+If you would like to get in contact with me, please don't hesitate to send me an email at toby@tobyb.xyz!
 For more information about me, please visit my personal website, https://tobyb.xyz/!
 Thanks for visiting my profile, and I hope you have a nice day! -Toby 🏳️‍🌈
