@@ -1,4 +1,4 @@
-<h1> Hi! I'm Toby! 👋</h1>
+<h1> Hi, I'm Toby! 👋</h1>
 
 To find out more about me, follow the steps below!
 
