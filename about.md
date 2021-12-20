@@ -4,7 +4,7 @@ I'm a 13 year old tech obsessed nerd from England, and member of Hack Club who s
 
 The main languages I use are; JavaScript, HTML, CSS, Go, Postgresql and Python. I also use MacOS, Windows and occasionally Linux.
 
-By the way! My pronouns are they/them!
+By the way, my pronouns are she/they!
 
 Just as a heads up, a lot of my repositories are private. But, if you do want to access the code, you can contact me with my email, toby@tobyb.xyz!
 
