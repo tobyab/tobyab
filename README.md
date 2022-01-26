@@ -1,12 +1,7 @@
-<h1> Hi, I'm Toby! 👋</h1>
+<h1> Hi, I'm Toby. 👋</h1>
 
-To find out more about me, follow the steps below!
+I'm a 13 y/o full stack web developer & designer from London. Please feel free to check out some of my work, I hope you have a nice day.
 
-```sh
-$ gh repo clone ItsTobez/ItsTobez
-$ cd ItsTobez
-$ cat about.md
-```
-
-By the way, you're also able to check out my <a href="https://tobyb.xyz/">personal site</a>.<br>
-If you need to contact me, please <a href="mailto:toby@tobyb.xyz">send me an email</a>!
+<a href="https://www.tobyb.xyz">Personal Website →</a><br>
+<a href="https://www.tobyb.xyz/about">More about me →</a><br>
+<a href="https://twitter.com/DevelopedByToby">Twitter →</a>
